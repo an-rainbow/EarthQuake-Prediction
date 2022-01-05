@@ -10,3 +10,5 @@ JavaScript and HTML was used for the frontend.
 This project is based on Coursera: Obejected Oriented Programming course provided by University of California San Diego.
 
 [Coursera Course Certificate](https://coursera.org/share/11661baed113e795655b3a07f4eee135)
+
+![Map Demo from Applet Viwer](https://github.com/asrmrc/OOP-Java-UCSD-Coursera/blob/master/Map.png)
