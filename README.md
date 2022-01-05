@@ -6,3 +6,5 @@ accurately predict the earthquakes.
 This project is to use binary classification and fixed rolling window moving averages of past days. Model with better AUC(Area Under Curve) score and recall will be considered to predict places where has a higher chance to have an earthquake.
 
 JavaScript and HTML was used for the frontend. 
+
+This project is based on Coursera: Obejected Oriented Programming course provided by University of California San Diego.
